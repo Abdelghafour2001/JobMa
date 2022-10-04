@@ -25,3 +25,15 @@ Worked with a team on a school project to build a website for job seekers and re
 <img src="./Post a job.jpg" alt="index1"/> <br/>
 - Job POST UI : </br>
 <img src="./Job POST UI.jpg" alt="index1"/> <br/>
+- User Profile UI : </br>
+<img src="./Profile.jpg" alt="index1"/> <br/>
+- Browse Jobs by Candidate : </br>
+<img src="./Brows Jobs Candidates.jpg" alt="index1"/> <br/>
+- View Resumes of applicants : </br>
+<img src="./Browse Resumes.jpg" alt="index1"/> <br/>
+- Manage Job Applications : </br>
+<img src="./Manage Applications.jpg" alt="index1"/> <br/>
+- Manage Job posts by company : </br>
+<img src="./Manage Jobs Company.jpg" alt="index1"/> <br/>
+- Contact page : </br>
+<img src="./Contact Us.jpg" alt="index1"/> <br/>

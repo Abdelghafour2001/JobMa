@@ -21,4 +21,7 @@ Worked with a team on a school project to build a website for job seekers and re
 <img src="./Create candidate account.jpg" alt="index1"/> <br/>
 - Create company account : </br>
 <img src="./Create Company Account.jpg" alt="index1"/> <br/>
-
+- Post a job : </br>
+<img src="./Post a job.jpg" alt="index1"/> <br/>
+- Job POST UI : </br>
+<img src="./Job POST UI.jpg" alt="index1"/> <br/>
